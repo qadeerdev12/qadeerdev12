@@ -1,13 +1,11 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
-  ║  GITHUB PROFILE README — setup                                 ║
+  ║  GITHUB PROFILE README — qadeerdev12                           ║
+  ║  Ready to publish. To use it:                                  ║
   ║  1. Create a PUBLIC repo named EXACTLY: qadeerdev12            ║
   ║  2. Paste this whole file into its README.md, then commit.     ║
-  ║  Username is already filled in. Still to replace:              ║
-  ║       YOUR_LINKEDIN  -> your LinkedIn handle (after /in/)       ║
-  ║       YOUR_EMAIL     -> your contact email                      ║
-  ║       PORTFOLIO_URL  -> your portfolio site (or delete line 27) ║
-  ║  All the stats/streak/trophy cards fill in automatically.      ║
+  ║  Username, LinkedIn, email and portfolio are all filled in.    ║
+  ║  The stats cards populate automatically from your account.     ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1e3a8a&height=200&section=header&text=Qadeer&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20MERN%20Developer%20based%20in%20Sydney&descSize=18&descAlignY=58" width="100%" />
@@ -17,9 +15,9 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/qadeer-afzal-536a58246"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:Qadeerdev12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.qadeerafzal.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=qadeerdev12&label=Profile%20views&color=2563EB&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -59,7 +57,7 @@ React · Node · Express · Socket.IO · MongoDB Atlas · JWT
 
 Show Image
 
-📋 ApplyFlow
+📋 Job Application Tracker
 
 A MERN app to track job applications, with JWT auth and a MongoDB aggregation pipeline for stats. Deployed on Vercel + Render.
 
@@ -76,6 +74,9 @@ Show Image
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=qadeerdev12&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qadeerdev12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qadeerdev12&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="95%" />
