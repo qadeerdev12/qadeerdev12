@@ -78,9 +78,6 @@ Show Image
   <img src="https://streak-stats.demolab.com/?user=qadeerdev12&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qadeerdev12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-</p>
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qadeerdev12&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="95%" />
 </p>
 
