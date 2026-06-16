@@ -8,10 +8,10 @@
   ║  The stats cards populate automatically from your account.     ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1e3a8a&height=200&section=header&text=Qadeer&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20MERN%20Developer%20based%20in%20Sydney&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1e3a8a&height=200&section=header&text=Qadeer&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20based%20in%20Sydney&descSize=18&descAlignY=58" width="100%" />
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-stack+MERN+developer;Building+real-time+web+apps+with+Socket.IO;Open+to+graduate+%26+junior+SWE+roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-stack+developer;Building+real-time+web+apps+with+Socket.IO;Open+to+graduate+%26+junior+SWE+roles" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
