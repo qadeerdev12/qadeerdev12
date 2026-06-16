@@ -57,7 +57,7 @@ React · Node · Express · Socket.IO · MongoDB Atlas · JWT
 
 Show Image
 
-📋 Job Application Tracker
+📋 ApplyFlow
 
 A MERN app to track job applications, with JWT auth and a MongoDB aggregation pipeline for stats. Deployed on Vercel + Render.
 
