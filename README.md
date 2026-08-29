@@ -1,122 +1,134 @@
 <!--
   GitHub profile README for qadeerdev12
-  Repo: https://github.com/qadeerdev12/qadeerdev12  (already exists & is public)
-  Replace that repo's README.md with this file and commit.
-
-  NOTE ON THE STATS CARDS:
-  Three widely-used card hosts are currently unreliable for EVERYONE, not just
-  this account, so none of them are used below:
-    - github-readme-stats.vercel.app        -> HTTP 503 (instance over quota)
-    - github-readme-activity-graph.vercel.app -> HTTP 402 (Vercel acct disabled)
-    - github-profile-trophy.vercel.app      -> HTTP 402 (same)
-    - streak-stats.demolab.com              -> returns "Failed to retrieve
-      contributions" ~40% of requests; GitHub's camo proxy then caches that
-      error card for 24h, so the README shows a broken card all day.
-  Everything below is served by github-profile-summary-cards, ghchart,
-  shields.io, skillicons and capsule-render, each verified returning live data
-  for qadeerdev12 on repeated pulls. See the bottom of this file for how to
-  self-host the classic cards if you want them back.
+  Replace the README.md in https://github.com/qadeerdev12/qadeerdev12 with this file.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1e3a8a&height=200&section=header&text=Qadeer%20Afzal&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20Sydney,%20Australia&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:14b8a6&height=210&section=header&text=Qadeer%20Afzal&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20developer%20building%20practical,%20real-time%20web%20products&descSize=17&descAlignY=58" width="100%" alt="Qadeer Afzal header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Full-stack+developer+%E2%80%A2+MERN;Real-time+web+apps+with+Socket.IO;Dockerised+services+with+CI%2FCD;Open+to+graduate+%26+junior+SWE+roles" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.qadeerafzal.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.qadeerafzal.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/qadeer-afzal-536a58246"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:Qadeerdev12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=qadeerdev12&label=Profile%20views&color=2563EB&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=qadeerdev12&label=Profile%20views&color=14b8a6&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=850&color=14B8A6&center=true&vCenter=true&width=760&lines=MERN+stack+developer+from+Sydney;React+frontends+with+Node%2FExpress+APIs;Real-time+apps+with+Socket.IO;Docker%2C+CI%2FCD%2C+testing%2C+and+deployment" alt="Typing introduction" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/qadeerdev12?style=flat-square&label=Followers&color=2563eb" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/qadeerdev12/tailortrac?style=flat-square&label=TailorTrac%20stars&color=14b8a6" alt="TailorTrac stars" />
+  <img src="https://img.shields.io/badge/Location-Sydney%2C%20Australia-0f172a?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Graduate%20%2F%20Junior%20SWE-2563eb?style=flat-square" alt="Open to roles" />
 </p>
 
 ---
 
-## About
+## Mission Control
 
-ICT graduate from **Western Sydney University**, building full-stack JavaScript apps — React on the front, Node/Express and MongoDB behind it, with real-time sync over WebSockets.
+```txt
+Role        Full-stack developer
+Focus       React, Node.js, Express, MongoDB, Socket.IO, JWT
+Now         Building polished full-stack apps with real-time features
+Learning    Backend architecture, automated testing, cloud deployment
+Base        Sydney, Australia
+```
 
-- 🔭 Currently building **CollabBoard**, a real-time collaborative Kanban board
-- 🧱 Recently: Dockerised a URL shortener with a GitHub Actions test pipeline
-- 🌱 Going deeper on backend architecture, testing and cloud deployment
-- 💬 Ask me about **React, Node, Express, MongoDB, Socket.IO, JWT**
-- 🇦🇺 Sydney-based with full working rights — open to **graduate / junior SWE roles**
-
----
-
-## Tech
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&perline=7" alt="Frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite,java,python&perline=6" alt="Backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,postman,vscode&perline=7" alt="Tooling" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+I like building products that feel useful quickly: clean interfaces, dependable APIs, real data flows, and deployment pipelines that do not need heroics to survive a Monday morning.
 
 ---
 
-## Projects
-
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| **[CollabBoard](https://github.com/qadeerdev12/collabboard)** | Real-time collaborative Kanban board — multiple users edit one board live, changes broadcast over WebSockets. | React · Express · Socket.IO · MongoDB · JWT |
-| **[Tailor Track](https://github.com/qadeerdev12/job-tracker-frontend)** · [API](https://github.com/qadeerdev12/Job-tracker-backend) | Job-application tracker with JWT auth and a MongoDB aggregation pipeline driving the stats dashboard. | React · Express · MongoDB · Vercel + Render |
-| **[URL Shortener](https://github.com/qadeerdev12/url-shortner)** | Link shortener with a SQLite store, Dockerised for deploy and tested in CI on every push. | Node · Express · SQLite · Docker · GitHub Actions |
-| **[UptimeDesk](https://github.com/qadeerdev12/UptimeDesk)** | Service-uptime monitoring dashboard. | Java |
-| **[Portfolio](https://github.com/qadeerdev12/PortfolioWebsite)** | My personal site — [qadeerafzal.com](https://www.qadeerafzal.com). | Next.js · TypeScript · Tailwind |
-
----
-
-## GitHub
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qadeerdev12&theme=tokyonight" height="200" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qadeerdev12&theme=tokyonight" height="200" alt="Most-committed languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&perline=7" alt="Frontend technologies" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite,java,python&perline=6" alt="Backend technologies" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,postman,vscode&perline=7" alt="Developer tools" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qadeerdev12&theme=tokyonight" height="200" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qadeerdev12&theme=tokyonight&utcOffset=10" height="200" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qadeerdev12&theme=tokyonight" width="95%" alt="Profile summary" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2563EB/qadeerdev12" width="95%" alt="Contribution graph" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
 </p>
 
 ---
 
-<p align="center">
-  <i>Open to graduate and junior software engineering roles in Sydney.</i><br/>
-  <a href="mailto:Qadeerdev12@gmail.com"><b>Qadeerdev12@gmail.com</b></a>
+## Featured Builds
+
+### TailorTrac
+
+<p>
+  <a href="https://github.com/qadeerdev12/tailortrac"><img src="https://img.shields.io/github/last-commit/qadeerdev12/tailortrac?style=flat-square&label=last%20commit&color=2563eb" alt="TailorTrac last commit" /></a>
+  <a href="https://github.com/qadeerdev12/tailortrac"><img src="https://img.shields.io/github/languages/top/qadeerdev12/tailortrac?style=flat-square&label=top%20language&color=14b8a6" alt="TailorTrac top language" /></a>
+  <a href="https://github.com/qadeerdev12/tailortrac"><img src="https://img.shields.io/github/repo-size/qadeerdev12/tailortrac?style=flat-square&label=repo%20size&color=0f172a" alt="TailorTrac repo size" /></a>
+  <a href="https://github.com/qadeerdev12/tailortrac"><img src="https://img.shields.io/github/issues/qadeerdev12/tailortrac?style=flat-square&label=issues&color=2563eb" alt="TailorTrac issues" /></a>
+  <img src="https://img.shields.io/badge/Auth-JWT-111827?style=flat-square" alt="JWT auth" />
+  <img src="https://img.shields.io/badge/Data-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563EB&height=120&section=footer" width="100%" />
+**TailorTrac** is a job-application command center for tracking applications, interviews, statuses, and dashboard insights from one focused workspace.
 
-<!--
-  WANT THE CLASSIC github-readme-stats OR STREAK CARDS BACK?
-  The shared instances are rate-limited. Self-hosting is the only reliable fix.
-  Same ~5-minute recipe for either project:
-    github-readme-stats:        https://github.com/anuraghazra/github-readme-stats
-    github-readme-streak-stats: https://github.com/DenverCoder1/github-readme-streak-stats
-  Steps:
-    1. Fork https://github.com/anuraghazra/github-readme-stats
-    2. Import the fork into Vercel (free tier is fine)
-    3. Add env var PAT_1 = a GitHub personal access token (no scopes needed
-       for public data; add `repo` if you want count_private=true to work)
-    4. Swap the host in the URLs below to your own deployment:
-       <your-app>.vercel.app/api?username=qadeerdev12&show_icons=true&theme=tokyonight&hide_border=true
-       <your-app>.vercel.app/api/top-langs/?username=qadeerdev12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
-  A self-hosted instance is the only version that stays reliable long-term.
--->
+<table>
+  <tr>
+    <td><b>Repository</b></td>
+    <td><a href="https://github.com/qadeerdev12/tailortrac">qadeerdev12/tailortrac</a></td>
+  </tr>
+  <tr>
+    <td><b>Highlights</b></td>
+    <td>Full-stack job tracking, JWT authentication, protected user data, application status workflows, MongoDB aggregation-powered dashboard stats, and deployment-ready architecture.</td>
+  </tr>
+</table>
+
+### Project Board
+
+| Project | Snapshot | Stack | Trackers |
+| :--- | :--- | :--- | :--- |
+| **[CollabBoard](https://github.com/qadeerdev12/collabboard)** | Real-time collaborative Kanban board where multiple users edit live boards together. | React &middot; Express &middot; Socket.IO &middot; MongoDB &middot; JWT | <img src="https://img.shields.io/github/last-commit/qadeerdev12/collabboard?style=flat-square&label=last%20commit&color=2563eb" alt="CollabBoard last commit" /> <img src="https://img.shields.io/github/languages/top/qadeerdev12/collabboard?style=flat-square&label=top%20language&color=14b8a6" alt="CollabBoard top language" /> |
+| **[TailorTrac](https://github.com/qadeerdev12/tailortrac)** | Job-application tracker with auth, status workflows, and analytics for the search process. | React &middot; Express &middot; MongoDB &middot; Vercel &middot; Render | <img src="https://img.shields.io/github/stars/qadeerdev12/tailortrac?style=flat-square&label=stars&color=2563eb" alt="TailorTrac stars" /> <img src="https://img.shields.io/github/issues/qadeerdev12/tailortrac?style=flat-square&label=issues&color=14b8a6" alt="TailorTrac issues" /> |
+| **[URL Shortener](https://github.com/qadeerdev12/url-shortner)** | Dockerised link shortener with persistent storage and CI checks on push. | Node &middot; Express &middot; SQLite &middot; Docker &middot; GitHub Actions | <img src="https://img.shields.io/github/actions/workflow/status/qadeerdev12/url-shortner/ci.yml?style=flat-square&label=CI&color=2563eb" alt="URL Shortener CI" /> <img src="https://img.shields.io/github/last-commit/qadeerdev12/url-shortner?style=flat-square&label=last%20commit&color=14b8a6" alt="URL Shortener last commit" /> |
+| **[UptimeDesk](https://github.com/qadeerdev12/UptimeDesk)** | Service uptime monitoring dashboard. | Java | <img src="https://img.shields.io/github/languages/top/qadeerdev12/UptimeDesk?style=flat-square&label=top%20language&color=2563eb" alt="UptimeDesk language" /> |
+| **[Portfolio](https://github.com/qadeerdev12/PortfolioWebsite)** | Personal portfolio at <a href="https://www.qadeerafzal.com">qadeerafzal.com</a>. | Next.js &middot; TypeScript &middot; Tailwind | <img src="https://img.shields.io/github/deployments/qadeerdev12/PortfolioWebsite/production?style=flat-square&label=production&color=14b8a6" alt="Portfolio production deployment" /> |
+
+---
+
+## GitHub Telemetry
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qadeerdev12&theme=github_dark" height="190" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qadeerdev12&theme=github_dark" height="190" alt="Most committed languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qadeerdev12&theme=github_dark" height="190" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qadeerdev12&theme=github_dark&utcOffset=10" height="190" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qadeerdev12&theme=github_dark" width="96%" alt="Profile summary card" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/14b8a6/qadeerdev12" width="96%" alt="GitHub contribution graph" />
+</p>
+
+---
+
+## Current Signal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-Full--stack%20apps-2563eb?style=for-the-badge" alt="Building full-stack apps" />
+  <img src="https://img.shields.io/badge/Interested%20in-Backend%20%26%20Cloud-14b8a6?style=for-the-badge" alt="Backend and cloud" />
+  <img src="https://img.shields.io/badge/Open%20to-SWE%20roles-111827?style=for-the-badge" alt="Open to SWE roles" />
+</p>
+
+<p align="center">
+  <b>Open to graduate and junior software engineering roles in Sydney.</b><br/>
+  <a href="mailto:Qadeerdev12@gmail.com">Qadeerdev12@gmail.com</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,55:2563eb,100:0f172a&height=120&section=footer" width="100%" alt="Footer wave" />
+
