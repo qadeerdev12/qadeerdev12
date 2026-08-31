@@ -97,22 +97,29 @@ I like building products that feel useful quickly: clean interfaces, dependable 
 
 ## GitHub Telemetry
 
+<!--
+  Live widgets below depend on external SVG services:
+  - github-profile-summary-cards: https://github.com/vn7n24fzkq/github-profile-summary-cards
+  - github-readme-streak-stats: https://github.com/DenverCoder1/github-readme-streak-stats
+  Checked on 2026-08-31: all widget URLs in this section returned HTTP 200 with SVG content.
+-->
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qadeerdev12&theme=github_dark" height="190" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qadeerdev12&theme=github_dark" height="190" alt="Most committed languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qadeerdev12&theme=tokyonight&animation=draw&duration=2" width="96%" alt="GitHub profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qadeerdev12&theme=github_dark" height="190" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qadeerdev12&theme=github_dark&utcOffset=10" height="190" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qadeerdev12&theme=tokyonight&animation=rise&duration=2&hide_logo=true" height="190" alt="GitHub stats summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qadeerdev12&theme=tokyonight&animation=load&duration=2" height="190" alt="Most committed languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qadeerdev12&theme=github_dark" width="96%" alt="Profile summary card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qadeerdev12&theme=tokyonight&animation=load&duration=2" height="190" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qadeerdev12&theme=tokyonight&utcOffset=10&animation=rise&duration=2" height="190" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/14b8a6/qadeerdev12" width="96%" alt="GitHub contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=qadeerdev12&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" alt="GitHub streak stats" />
 </p>
 
 ---
@@ -131,4 +138,3 @@ I like building products that feel useful quickly: clean interfaces, dependable 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,55:2563eb,100:0f172a&height=120&section=footer" width="100%" alt="Footer wave" />
-
